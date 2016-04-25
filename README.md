@@ -10,4 +10,4 @@
 
 /path/to/your/container_servlet/bin/startup.sh
 
-После этого проверьте рест колы: http://localhost:8080/cxfServlet/rest/test-service/test
+После этого проверьте рест кол: http://localhost:8080/cxfServlet/rest/test-service/test
