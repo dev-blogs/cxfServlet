@@ -1,4 +1,4 @@
-PATH_TO_DEPLOY=/Users/imitiguz/bin/apache-tomcat-9.0.0.M4/webapps
+PATH_TO_DEPLOY=/path/to/your/servlet_container
 PROJECT_NAME=cxfServlet
  
 # Удаляем каталог с предыдущим билдом
